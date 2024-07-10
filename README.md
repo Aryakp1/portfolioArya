@@ -9,8 +9,8 @@ You can view my portfolio live [here](https://aryakp1.github.io/portfolioArya/  
 ## Projects
 
 - **Collegiate Chatter**: A college enquiry chatbot. [View Project]
-- **Code Mate**: A live code editor. [View Project](https://github.com/Aryakp1/liveCodeMate.git)
-- **Quiz App**: A quiz game application. [View Project](https://github.com/Aryakp1/QuizApp.git)
+- **Code Mate**: A live code editor. [View Project](https://github.com/Aryakp1/liveCodeMate.git) [Live Demo](https://aryakp1.github.io/liveCodeMate/)
+- **Quiz App**: A quiz game application. [View Project](https://github.com/Aryakp1/QuizApp.git) [Live Demo] ( )
 
 ## Contact
 

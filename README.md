@@ -14,5 +14,5 @@ You can view my portfolio live [here](https://aryakp1.github.io/portfolioArya/  
 
 ## Contact
 
-- Email: [aryarajan538@gmail.com](mailto:aryarajan538@gmail.com)
+- Email: [aryarajan538@gmail.com](mailto:aryarajan538@gmail.com)  [arkp2003@gmail.com](mailto:arkp2003@gmail.com)
 - GitHub: [Aryakp1](https://github.com/Aryakp1)

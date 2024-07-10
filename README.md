@@ -4,7 +4,7 @@ Welcome to my personal portfolio. This site showcases my projects and skills.
 
 ## Live Site
 
-You can view my portfolio live [here](   ).
+You can view my portfolio live [here](https://aryakp1.github.io/portfolioArya/   ).
 
 ## Projects
 
